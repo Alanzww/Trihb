@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema base da janela (não é layout). Fundo Branco Quente evita "flash" antes do Compose. -->
+    <style name="Theme.Trihb" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/trihub_background</item>
+    </style>
+</resources>
